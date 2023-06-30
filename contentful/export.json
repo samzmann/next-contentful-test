@@ -226,16 +226,6 @@
           "omitted": false
         },
         {
-          "id": "excerpt",
-          "name": "Excerpt",
-          "type": "Symbol",
-          "localized": false,
-          "required": true,
-          "validations": [],
-          "disabled": false,
-          "omitted": false
-        },
-        {
           "id": "coverImage",
           "name": "Cover Image",
           "type": "Link",
@@ -388,11 +378,6 @@
         {
           "fieldId": "content",
           "widgetId": "richTextEditor",
-          "widgetNamespace": "builtin"
-        },
-        {
-          "fieldId": "excerpt",
-          "widgetId": "singleLine",
           "widgetNamespace": "builtin"
         },
         {

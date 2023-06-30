@@ -14,12 +14,6 @@
         "label": "content"
       }
     },
-    "excerpt": {
-      "type": "Text",
-      "config": {
-        "label": "excerpt"
-      }
-    },
     "coverimage": {
       "type": "Image",
       "config": {
